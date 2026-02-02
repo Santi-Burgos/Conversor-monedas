@@ -1,0 +1,1 @@
+Este es un proyecto desarrollado como parte del desafío de Oracle Next Education en conjunto con Alura Latam. El objetivo es poner en práctica conocimientos de Java, consumo de APIs externas y manejo de datos JSON.
